@@ -198,7 +198,7 @@ BMS_FM_1.2V/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/BMS_FM_1.2V.git
+git clone https://github.com/SAHIL-3108/BMS_FM_1.2V.git
 cd BMS_FM_1.2V
 
 # Open in STM32CubeIDE:
